@@ -3,9 +3,7 @@
 
 ---
 <div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+GitHub;Turning+raw+data+into+real+decisions;Always+learning%2C+always+building;I+hope+you+like+it!)
-
+  <img src="https://raw.githubusercontent.com/Marques07/Marques07/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
 </div>
 
 ---
